@@ -1,4 +1,7 @@
-2D/datasets/
-2D/details
-3D/
+1D/*
+!1D/database.json
+2D/*
+!2D/database.json
+3D/*
+!3D/database.json
 20240618_notes.md

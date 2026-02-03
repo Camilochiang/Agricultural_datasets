@@ -1,0 +1,41 @@
+publiccodeYmlVersion: 0.5.0
+name: Agricultural_datasets
+applicationSuite: Database
+url: https://github.com/agroscope-ch/Agricultural_datasets
+landingURL: https://github.com/agroscope-ch/Agricultural_datasets
+releaseDate: 2024-02-02
+platforms:
+  - web
+categories:
+  - data-collection
+usedBy:
+  - Agroscope
+developmentStatus: concept
+softwareType: library
+organisation:
+  uri: https://github.com/agroscope-ch
+description:
+  en:
+    localisedName: Agricultural_datasets
+    shortDescription: Collection of datasets for either 2D/3D object detection or
+      segmentation, already  in FOLA (Agroscope internal network)
+    longDescription: Collection of datasets for either image or 3D object detection
+      or segmentation, that can be be download from the internet and are already
+      found in FOLA (Agroscope internal network) For the case of 3D data, the
+      dataset may or may not be annotated.
+    documentation: https://github.com/agroscope-ch/Agricultural_datasets
+    features:
+      - Dataset
+legal:
+  license: CC-BY-NC-4.0
+maintenance:
+  type: internal
+  contacts:
+    - name: Camilo Chiang
+      email: camilo.chiang@agroscope.admin.ch
+      phone: "0767400930"
+      affiliation: Agroscope
+localisation:
+  localisationReady: false
+  availableLanguages:
+    - en

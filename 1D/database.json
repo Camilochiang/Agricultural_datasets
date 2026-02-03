@@ -1,0 +1,31 @@
+{
+    "Datasets":[
+    {
+        "Name": "",
+        "Identification": "",
+        "Class" : ["Maiz", "Soybean"],
+        "Type": [""],
+        "Paper": "Two decades of fumigation data from the Soybean Free Air Concentration Enrichment facility",
+        "Authors": "Aspray et al ",
+        "Year": "2023",
+        "URL": "https://databank.illinois.edu/datasets/IDB-6464604",
+        "URL2": "",
+        "Description": "",
+        "Modifications": "",
+        "Status": ""
+    },{
+        "Name": "",
+        "Identification": "",
+        "Class" : [""],
+        "Type": [""],
+        "Paper": "",
+        "Authors": "",
+        "Year": "",
+        "URL": "",
+        "URL2": "",
+        "Description": "",
+        "Modifications": "",
+        "Status": ""
+    }
+	]
+}
